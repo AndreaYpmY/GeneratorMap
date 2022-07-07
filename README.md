@@ -1,4 +1,6 @@
 # GeneratorMap
+Project of parallel algorithms and distributed systems
+
 Map generator in C ++ using the MPI and ALLEGRO libraries
 
 Code :                          MapGenerator.cpp 
